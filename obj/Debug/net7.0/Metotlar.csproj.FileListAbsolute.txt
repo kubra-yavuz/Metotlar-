@@ -1,0 +1,15 @@
+/Users/kubranuryavuz/Projects/10 Kasım Ödevi/Metotlar/bin/Debug/net7.0/Metotlar
+/Users/kubranuryavuz/Projects/10 Kasım Ödevi/Metotlar/bin/Debug/net7.0/Metotlar.deps.json
+/Users/kubranuryavuz/Projects/10 Kasım Ödevi/Metotlar/bin/Debug/net7.0/Metotlar.runtimeconfig.json
+/Users/kubranuryavuz/Projects/10 Kasım Ödevi/Metotlar/bin/Debug/net7.0/Metotlar.dll
+/Users/kubranuryavuz/Projects/10 Kasım Ödevi/Metotlar/bin/Debug/net7.0/Metotlar.pdb
+/Users/kubranuryavuz/Projects/10 Kasım Ödevi/Metotlar/obj/Debug/net7.0/Metotlar.csproj.AssemblyReference.cache
+/Users/kubranuryavuz/Projects/10 Kasım Ödevi/Metotlar/obj/Debug/net7.0/Metotlar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kubranuryavuz/Projects/10 Kasım Ödevi/Metotlar/obj/Debug/net7.0/Metotlar.AssemblyInfoInputs.cache
+/Users/kubranuryavuz/Projects/10 Kasım Ödevi/Metotlar/obj/Debug/net7.0/Metotlar.AssemblyInfo.cs
+/Users/kubranuryavuz/Projects/10 Kasım Ödevi/Metotlar/obj/Debug/net7.0/Metotlar.csproj.CoreCompileInputs.cache
+/Users/kubranuryavuz/Projects/10 Kasım Ödevi/Metotlar/obj/Debug/net7.0/Metotlar.dll
+/Users/kubranuryavuz/Projects/10 Kasım Ödevi/Metotlar/obj/Debug/net7.0/refint/Metotlar.dll
+/Users/kubranuryavuz/Projects/10 Kasım Ödevi/Metotlar/obj/Debug/net7.0/Metotlar.pdb
+/Users/kubranuryavuz/Projects/10 Kasım Ödevi/Metotlar/obj/Debug/net7.0/Metotlar.genruntimeconfig.cache
+/Users/kubranuryavuz/Projects/10 Kasım Ödevi/Metotlar/obj/Debug/net7.0/ref/Metotlar.dll
