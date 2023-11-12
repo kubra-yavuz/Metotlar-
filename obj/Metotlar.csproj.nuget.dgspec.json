@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/kubranuryavuz/Projects/10 Kasım Ödevi/Metotlar/Metotlar.csproj": {}
+    "/Users/kubranuryavuz/Projects/10 Kasım Ödevi/Yazilim-Gelistirici-Yetistirme-Kampi/Metotlar/Metotlar.csproj": {}
   },
   "projects": {
-    "/Users/kubranuryavuz/Projects/10 Kasım Ödevi/Metotlar/Metotlar.csproj": {
+    "/Users/kubranuryavuz/Projects/10 Kasım Ödevi/Yazilim-Gelistirici-Yetistirme-Kampi/Metotlar/Metotlar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kubranuryavuz/Projects/10 Kasım Ödevi/Metotlar/Metotlar.csproj",
+        "projectUniqueName": "/Users/kubranuryavuz/Projects/10 Kasım Ödevi/Yazilim-Gelistirici-Yetistirme-Kampi/Metotlar/Metotlar.csproj",
         "projectName": "Metotlar",
-        "projectPath": "/Users/kubranuryavuz/Projects/10 Kasım Ödevi/Metotlar/Metotlar.csproj",
+        "projectPath": "/Users/kubranuryavuz/Projects/10 Kasım Ödevi/Yazilim-Gelistirici-Yetistirme-Kampi/Metotlar/Metotlar.csproj",
         "packagesPath": "/Users/kubranuryavuz/.nuget/packages/",
-        "outputPath": "/Users/kubranuryavuz/Projects/10 Kasım Ödevi/Metotlar/obj/",
+        "outputPath": "/Users/kubranuryavuz/Projects/10 Kasım Ödevi/Yazilim-Gelistirici-Yetistirme-Kampi/Metotlar/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/kubranuryavuz/.nuget/NuGet/NuGet.Config"

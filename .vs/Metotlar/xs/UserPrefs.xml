@@ -5,14 +5,14 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
       <File FileName="Program.cs" Line="26" Column="1" />
-      <File FileName="SepetManager.cs" Line="11" Column="61" />
-      <File FileName="Urun.cs" Line="11" Column="3" />
+      <File FileName="SepetManager.cs" />
+      <File FileName="Urun.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Metotlar" expanded="True">
-            <Node name="Metotlar" expanded="True">
+          <Node name="Metotlar">
+            <Node name="Metotlar">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
